@@ -9,9 +9,9 @@
 
 - 👨‍💻 All of my projects are available at [https://www.fabyan.ca/](https://www.fabyan.ca/)
 
-- 💬 Ask me about **machine learning**
+- 💬 Interested In: **machine learning** and **game development**
 
-- 📫 How to reach me **fabyan.mikhael@ryerson.ca**
+- 📫 Reach me at: **fabyan.mikhael@ryerson.ca**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
