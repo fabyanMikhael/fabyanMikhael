@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Fabyan Mikhael</h1>
+<h1 align="center">Hi 👋, I'm Fabyan Mikhael<img align="right" src="https://www.gstatic.com/android/keyboard/emojikitchen/20210831/u1f35e/u1f35e_u1f431.png" style="width:200px; height:200px;"></img></h1>
+
 <h3 align="center">A Ryerson Student Studying Computer Science</h3>
 
 - 🔭 I’m currently working on **not dying from school work**
