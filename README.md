@@ -8,11 +8,11 @@
 
 - 👯 I’m looking to collaborate on **game projects**
 
-- 👨‍💻 All of my projects are available at [https://www.fabyan.ca/](https://www.fabyan.ca/)
+- 👨‍💻 ~~All of my projects are available at~~ (being rebuilt... soon) [https://www.fabyan.ca/](https://www.fabyan.ca/)
 
 - 💬 Interested In: **machine learning** and **game development**
 
-- 📫 Reach me at: **fabyan.mikhael@ryerson.ca**
+- 📫 Reach me at: **fabyan.mikhael@torontomu.ca**
 
 <!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
